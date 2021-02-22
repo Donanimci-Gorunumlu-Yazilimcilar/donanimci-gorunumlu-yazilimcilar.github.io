@@ -59,7 +59,14 @@ $.i18n.en = {
     about: 'About',
     services: 'Services',
     simple_content: 'This is a clean and modern HTML5 template with a video background. You can use this layout for your profile page. Please spread a word about templatemo to your friends. Thank you.',
-    skill : 'Our Skills'
+    skill : 'Our Skills',
+    work : 'Our Work',
+    testimonials: 'Testimonials',
+    contact: 'Contact',
+    welcome:'Hello, welcome to',
+    elegance: 'Elegance',
+    Scroll: 'Scroll Down',
+    Who :'Who are we ?' 
 };
 
 $.i18n.tr = {
@@ -67,7 +74,14 @@ $.i18n.tr = {
     about: 'Hakkımızda',
     services: 'Servisler',
     simple_content: 'Bu, video arka planı olan temiz ve modern bir HTML5 şablonu. Bu düzeni profil sayfanız için kullanabilirsiniz. Lütfen arkadaşlarınıza templatemo hakkında bir şeyler söyleyin. Teşekkür ederim.',
-    skill : 'Yeteneklerimiz'
+    skill : 'Yeteneklerimiz',
+    work : 'İşimiz',
+    testimonials : 'Görüşler',
+    contact: 'İletişim',
+    welcome:'MERHABA, HOŞ GELDİNİZ',
+    elegance: 'Zerafet',
+    Scroll: 'Aşağı Kaydır',
+    Who :'BİZ KİMİZ ?'      
 };
 
 $.i18n.ru = {
@@ -75,7 +89,14 @@ $.i18n.ru = {
     about: 'о нас',
     services: 'Сервисы',
     simple_content: 'Это чистый и современный шаблон HTML5 с видео-фоном. Вы можете использовать этот макет для страницы своего профиля. Расскажите, пожалуйста, друзьям о шаблоне. Спасибо.',
-    skill : 'наши навыки'
+    skill : 'наши навыки',
+    work : 'наша работа',
+    testimonials: 'рекомендации',
+    contact: 'контакт',
+    welcome:'Здравствуйте, добро пожаловать',
+    elegance: 'Элегантность',
+    Scroll: 'Aşağı Kaydır',
+    Who :'Кто мы ?'     
 }
 
 var i18n = $.i18n();
