@@ -57,7 +57,6 @@ $.i18n = function(options){
 $.i18n.en = {
     home: 'Home',
     about: 'About',
-    services: 'Services',
     simple_content: 'This is a clean and modern HTML5 template with a video background. You can use this layout for your profile page. Please spread a word about templatemo to your friends. Thank you.',
     skill : 'Our Skills',
     work : 'Our Work',
@@ -66,13 +65,16 @@ $.i18n.en = {
     welcome:'Hello, welcome to',
     elegance: 'Elegance',
     Scroll: 'Scroll Down',
-    Who :'Who are we ?' 
+    Who :'Who are we ?',
+    what : "what we’ve done?",
+    touch : "Get In Touch!",
+    good : "What we're working on?",
+    tech : "Technologies"
 };
 
 $.i18n.tr = {
     home: 'Ana Sayfa',
     about: 'Hakkımızda',
-    services: 'Servisler',
     simple_content: 'Bu, video arka planı olan temiz ve modern bir HTML5 şablonu. Bu düzeni profil sayfanız için kullanabilirsiniz. Lütfen arkadaşlarınıza templatemo hakkında bir şeyler söyleyin. Teşekkür ederim.',
     skill : 'Yeteneklerimiz',
     work : 'İşimiz',
@@ -81,13 +83,16 @@ $.i18n.tr = {
     welcome:'MERHABA, HOŞ GELDİNİZ',
     elegance: 'Zerafet',
     Scroll: 'Aşağı Kaydır',
-    Who :'BİZ KİMİZ ?'      
+    Who :'BİZ KİMİZ ?',
+    what : "neler yaptık?",
+    touch : "İLETİŞİME GEÇ!",
+    good : "Neler Üzerinde Çalışıyoruz?",
+    tech : "Teknolojiler"
 };
 
 $.i18n.ru = {
     home: 'дома',
     about: 'о нас',
-    services: 'Сервисы',
     simple_content: 'Это чистый и современный шаблон HTML5 с видео-фоном. Вы можете использовать этот макет для страницы своего профиля. Расскажите, пожалуйста, друзьям о шаблоне. Спасибо.',
     skill : 'наши навыки',
     work : 'наша работа',
@@ -95,8 +100,12 @@ $.i18n.ru = {
     contact: 'контакт',
     welcome:'Здравствуйте, добро пожаловать',
     elegance: 'Элегантность',
-    Scroll: 'Aşağı Kaydır',
-    Who :'Кто мы ?'     
+    Scroll: 'Прокрутить вниз',
+    Who :'Кто мы ?',
+    what : "что мы сделали ?",
+    touch : "СВЯЗАТЬСЯ С НАМИ!",
+    good : "Над чем мы работаем?",
+    tech : "Технологии"
 }
 
 var i18n = $.i18n();
